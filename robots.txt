@@ -1,3 +1,6 @@
 User-agent: *
 Allow: /
 Sitemap: https://suryadev-sm.github.io/sarkari-naukri/sitemap.xml
+
+User-agent: ElevenLabsCrawler
+Disallow: /
